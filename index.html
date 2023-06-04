@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+  <script src="Components/Base.js"></script>
+  <script src="Components/Car.js"></script>
+</head>
+
+<body>
+  <a-scene>
+
+    <a-camera wasd-controls="acceleration: 1000" position="0 15 30"></a-camera>
+
+    <!--OBJ Models-->   
+    <a-entity position="0 0 0" rotation="0 0 0" scale="15 15 15" car-model></a-entity>
+
+    <a-entity position="0 0 0" rotation="0 0 0" base></a-entity>
+  </a-scene>
+</body>
+
+</html>

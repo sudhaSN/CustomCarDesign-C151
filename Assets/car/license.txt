@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cartoon Sports Car
+* source:	https://sketchfab.com/3d-models/cartoon-sports-car-bd149c9a899d46bfa97326934dfa769c
+* author:	Nirvana Studio (https://sketchfab.com/nirvanastudio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cartoon Sports Car" (https://sketchfab.com/3d-models/cartoon-sports-car-bd149c9a899d46bfa97326934dfa769c) by Nirvana Studio (https://sketchfab.com/nirvanastudio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
